@@ -1,5 +1,5 @@
 [
-    },
+    }
     {
       "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220410_153820.png",
       "name": "Minimal Tree V1",
@@ -628,5 +628,5 @@
       "name": "Shape flow 4",
       "collections": "Flow",
       "author": "Animesh Singh Rajput"
-    },
+    }
 ]
