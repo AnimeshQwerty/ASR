@@ -424,13 +424,13 @@
       "author": "Animesh Singh Rajput",
       "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220310_220145_1646929963433.png",
       "name": "Diagonal waves 2",
-      "collections": "Minimal"
+      "collections": "Waves"
     },
     {
       "author": "Animesh Singh Rajput",
       "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220310_222315_1646931227485.png",
       "name": "Diagonal waves 3",
-      "collections": "Minimal"
+      "collections": "Waves"
     },
     {
       "author": "Animesh Singh Rajput",
@@ -531,7 +531,7 @@
     {
       "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_130406.png",
       "name": "Pastel 7",
-      "collections": "",
+      "collections": "Pastel",
       "author": "Animesh Singh Rajput"
     },
     {
@@ -542,8 +542,8 @@
     },
     {
       "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_130406.png",
-      "name": "Pastel 8",
-      "collections": "",
+      "name": "Pastel 9",
+      "collections": "Pastel",
       "author": "Animesh Singh Rajput"
     },
     {
@@ -567,6 +567,60 @@
     {
       "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220412_222408.png",
       "name": "Illustration 1",
+      "collections": "Illustration",
+      "author": "Animesh Singh Rajput"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220421_202803.png",
+      "name": "Illustration 2",
+      "collections": "Illustration",
+      "author": "Animesh Singh Rajput"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220421_202836.png",
+      "name": "Illustration 3",
+      "collections": "Illustration",
+      "author": "Animesh Singh Rajput"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220421_202904.png",
+      "name": "Illustration 4",
+      "collections": "Illustration",
+      "author": "Animesh Singh Rajput"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_120016.png",
+      "name": "Illustration 5",
+      "collections": "Illustration",
+      "author": "Animesh Singh Rajput"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_120105.png",
+      "name": "Illustration 6",
+      "collections": "Illustration",
+      "author": "Animesh Singh Rajput"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_120213.png",
+      "name": "Illustration 7",
+      "collections": "Illustration",
+      "author": "Animesh Singh Rajput"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_120249.png",
+      "name": "Illustration 8",
+      "collections": "Illustration",
+      "author": "Animesh Singh Rajput"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_120522.png",
+      "name": "Illustration 9",
+      "collections": "Illustration",
+      "author": "Animesh Singh Rajput"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220422_120608.png",
+      "name": "Illustration 10",
       "collections": "Illustration",
       "author": "Animesh Singh Rajput"
     },
