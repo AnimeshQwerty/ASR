@@ -1,6 +1,36 @@
 [
     }
     {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220429_224210.png",
+      "name": "Shape Scenery",
+      "collections": "Scenery"
+      "author": "Animesh Singh Rajput",
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220429_224300.png",
+      "name": "Shape Scenery",
+      "collections": "Scenery"
+      "author": "Animesh Singh Rajput",
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220429_225048.png",
+      "name": "Dull Scenery",
+      "collections": "Scenery"
+      "author": "Animesh Singh Rajput",
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220430_111129.png",
+      "name": "Wave Scenery",
+      "collections": "Scenery"
+      "author": "Animesh Singh Rajput",
+    },
+    {
+      "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220430_111928.png",
+      "name": "Shape Scenery",
+      "collections": "Scenery"
+      "author": "Animesh Singh Rajput",
+    },
+    {
       "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20220421_215656.png",
       "name": "Minimal delivery boy",
       "collections": "Minimal",
