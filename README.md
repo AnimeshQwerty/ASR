@@ -1,5 +1,5 @@
 [
-    },
+    }
     {
       "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20230115_214255.png",
       "name": "Illustration 11",
@@ -29,7 +29,7 @@
       "name": "Illustration 15",
       "collections": "Illustration"
       "author": "Animesh Singh Rajput","
-   },
+    },
     {
       "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/20230115_214431.png",
       "name": "Illustration 16",
