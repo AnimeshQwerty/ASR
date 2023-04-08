@@ -1,6 +1,5 @@
 [
- }
- {
+{
   "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Scenery%2001.png",
   "name": "Scenery 01",
   "collections": "Scenery",
@@ -52,7 +51,8 @@
   "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Scenery%2009.png",
   "name": "Scenery 09",
   "collections": "Scenery",
-  "author": "Animesh Singh Rajput" },
+  "author": "Animesh Singh Rajput" 
+ },
  {
   "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Scenery%2010.png",
   "name": "Scenery 10",
@@ -970,3 +970,305 @@
   "name": "Beach 50",
   "collections": "Beach",
   "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2001.png",
+  "name": "Desert 01",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ }
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2002.png",
+  "name": Desert 02",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2003.png",
+  "name": "Desert 03",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2004.png",
+  "name": "Desert 04",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2005.png",
+  "name": "Desert 05",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2006.png",
+  "name": "Desert 06",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2007.png",
+  "name": Desert 07",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2008.png",
+  "name": "Desert 08",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2009.png",
+  "name": "Desert 09",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2010.png",
+  "name": "Desert 10",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2011.png",
+  "name": "Desert 11",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ }
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2012.png",
+  "name": Desert 12",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2013.png",
+  "name": "Desert 13",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2014.png",
+  "name": "Desert 14",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2015.png",
+  "name": "Desert 15",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2016.png",
+  "name": "Desert 16",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2017.png",
+  "name": "Desert 17",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2018.png",
+  "name": "Desert 18",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2019.png",
+  "name": "Desert 19",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2020.png",
+  "name": "Desert 20",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2021.png",
+  "name": "Desert 21",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ }
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2022.png",
+  "name": Desert 22",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2023.png",
+  "name": "Desert 23",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2024.png",
+  "name": "Desert 24",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2025.png",
+  "name": "Desert 25",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2026.png",
+  "name": "Desert 26",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2027.png",
+  "name": Desert 27",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2028.png",
+  "name": "Desert 28",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2029.png",
+  "name": "Desert 29",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2030.png",
+  "name": "Desert 30",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2031.png",
+  "name": "Desert 31",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2032.png",
+  "name":Desert 32",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2033.png",
+  "name": "Desert 33",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2034.png",
+  "name": "Desert 34",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2035.png",
+  "name": "Desert 35",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2036.png",
+  "name": "Desert 36",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2037.png",
+  "name": Desert 37",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2038.png",
+  "name": "Desert 38",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2039.png",
+  "name": "Desert 39",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2040.png",
+  "name": "Desert 40",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2041.png",
+  "name": "Desert 41",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2042.png",
+  "name": Desert 42",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2043.png",
+  "name": "Desert 43",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2044.png",
+  "name": "Desert 44",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2045.png",
+  "name": "Desert 45",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2046.png",
+  "name": "Desert 46",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2047.png",
+  "name": Desert 47",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2048.png",
+  "name": "Desert 48",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2049.png",
+  "name": "Desert 49",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/AnimeshQwerty/ASR/main/Desert%2050.png",
+  "name": "Desert 50",
+  "collections": "Desert",
+  "author": "Animesh Singh Rajput"
+}
+]
